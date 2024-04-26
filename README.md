@@ -1,6 +1,6 @@
 # TestIntellisense
 
-This is a simple demo that `EditorBrowsable(EditorBrowsableState.Never` doesn't work as expected.
+This is a simple demo that `EditorBrowsable(EditorBrowsableState.Never)` doesn't work as expected.
 
 This was created for [this bug report](https://github.com/dotnet/roslyn/issues/71209).
 
